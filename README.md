@@ -48,7 +48,8 @@ const WhoAmI = {
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akkayameva@gmail.com)](mailto:contato.weltonf@gmail.com)
 
 ```javascript
-"That brain of mine is something more than merely mortal, as time will show. -Ada"
+"I have no special talent. I am only passionately curious."
+-Albert Einstein
 ```
 
 
