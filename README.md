@@ -45,7 +45,7 @@ const WhoAmI = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Contact Me!</b> 😊</em>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/akkayameva)](https://twitter.com/akkayameva) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akkayameva/)](https://www.linkedin.com/in/akkayameva) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akkayameva@gmail.com)](mailto:contato.weltonf@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akkayameva@gmail.com)](mailto:akkayameva@gmail.com)
 
 ```javascript
 "I have no special talent. I am only passionately curious."
