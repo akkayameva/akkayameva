@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://bornlicensing.com/wp-content/uploads/2018/01/waving_hand_sign_256.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30px"></h2>
 
 ![VisitorCount](https://profile-counter.glitch.me/{akkayameva}/count.svg) 
 
@@ -12,7 +12,8 @@ const WhoAmI = {
   education: {
                university: "University of Turkish Aeronautical Association",
                major: "Computer Engineer",
-               degree: ["BS", "new graduated"]
+               degree: ["BS", "2020 Graduated"]
+  
                                                    },
 }
 ```
@@ -29,16 +30,13 @@ const WhoAmI = {
 
 ## Projects
 
-**AI Projects:**
+[![Museum Asistant](https://img.shields.io/badge/-🤖&nbsp;&nbsp;Museum&nbsp;Asistant-000000?style=flat)](https://github.com/Susam-Sokagi/Muze-Asistani) 
+<br>
+[![Call Center Performance Anlaysis](https://img.shields.io/badge/-📞&nbsp;&nbsp;Call&nbsp;Center&nbsp;Performance&nbsp;Analysis-000000?style=flat)](https://github.com/akkayameva) 🔒
+<br> 
+[![ICRAI](https://img.shields.io/badge/-😄&nbsp;&nbsp;Emotion&nbsp;Analysis-000000?style=flat)](https://github.com/akkayameva) 🔒
+<br> 
 
-[![Museum Asistant](https://img.shields.io/badge/-🤖&nbsp;&nbsp;Museum&nbsp;Asistant-000000?style=flat)](https://github.com/Susam-Sokagi/Muze-Asistani)
-[![Performance Anlaysis](https://img.shields.io/badge/-📞&nbsp;&nbsp;Performance&nbsp;Analysis-000000?style=flat)](https://github.com/akkayameva)
-
-**Cyber Security Projects:**
-<br>I hope coming soon..
-
-**Android Projects:**
-<br>I hope coming soon..
 
 
 
